@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Algorithms\SomAlgorithm.cs" />
+    <Compile Include="Algorithms\ArithmeticSequence.cs" />
+    <Compile Include="Algorithms\CountAlgorithm\CountAlgorithm.cs" />
+    <Compile Include="Algorithms\SumAlgorithm.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
