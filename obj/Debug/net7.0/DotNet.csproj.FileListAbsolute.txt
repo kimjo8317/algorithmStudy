@@ -1,0 +1,4 @@
+C:\Users\kimjunoh\source\repos\DotNet\obj\Debug\net7.0\DotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimjunoh\source\repos\DotNet\obj\Debug\net7.0\DotNet.AssemblyInfoInputs.cache
+C:\Users\kimjunoh\source\repos\DotNet\obj\Debug\net7.0\DotNet.AssemblyInfo.cs
+C:\Users\kimjunoh\source\repos\DotNet\obj\Debug\net7.0\DotNet.csproj.CoreCompileInputs.cache
