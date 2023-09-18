@@ -27,19 +27,19 @@
 
 //        Console.WriteLine($"{scores.Length}명의 점수중 80점 이상의 총점(합계):{sum}");
 
-//        //디버그 f9(BP) -> f5(Start) -> f11(함수나 메서드 있을시그안으로들어감) or f10 -> shift+f5(exit)
+////        디버그 f9(BP) -> f5(Start)->f11(함수나 메서드 있을시그안으로들어감) or f10 -> shift + f5(exit)
 
-//        //전체주석 Ctrl + k + c , 주석해제 Crtl + k + u
+////        전체주석 Ctrl +k + c , 주석해제 Crtl +k + u
 
-          //DotNet 설정에서 시작메인클래스 지정가능함  
+////        DotNet 설정에서 시작메인클래스 지정가능함
 
-          //ctrl + E + E = C#인터렉티브 실행 
+////ctrl + E + E = C#인터렉티브 실행 
 
-          //...뜰때 ctrl + . = 제공되는 가이드 확인가능
+////...뜰때 ctrl + . = 제공되는 가이드 확인가능
 
-          //ctrl + c + v 줄복사
+////ctrl + c + v 줄복사
 
-          //ctrl + ; 프로젝트창 열기
+////ctrl + ; 프로젝트창 열기
 
 //    }
 //}

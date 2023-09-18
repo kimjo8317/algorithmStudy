@@ -65,12 +65,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Algorithms\ArithmeticSequence.cs" />
+    <Compile Include="Algorithms\AverageAlgorithm\ArraySumAverage.cs" />
     <Compile Include="Algorithms\AverageAlgorithm\AverageAlgorithm.cs" />
+    <Compile Include="Algorithms\AverageAlgorithm\AverageCount.cs" />
     <Compile Include="Algorithms\CountAlgorithm\CountAlgorithm.cs" />
+    <Compile Include="Algorithms\MaxAlgorithm\MaxAlgorithm.cs" />
     <Compile Include="Algorithms\PrimeNumber\PerfectNumber.cs" />
     <Compile Include="Algorithms\PrimeNumber\PrimeNumberCount.cs" />
     <Compile Include="Algorithms\PrimeNumber\PrimeNumber.cs" />
-    <Compile Include="Algorithms\SumAlgorithm.cs" />
+    <Compile Include="Algorithms\SumAlgorithm\SumAlgorithm.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
